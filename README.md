@@ -8,6 +8,6 @@ Here you can find some of my Android projects (completed or in progress).
 
 - [Calculator](https://github.com/NikolaosProgios/Calculator) implemented with <img src="https://www.clipartmax.com/png/full/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin" width="20" height="20"/>
 
-- [ToDoList](https://github.com/NikolaosProgios/ToDoList) implemented with <img src="https://www.clipartmax.com/png/full/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin" width="20" height="20"/> [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="Sqlite" width="45" height="45"/>](https://github.com/NikolaosProgios/ToDoList)
+- [ToDoList](https://github.com/NikolaosProgios/ToDoList) implemented with <img src="https://www.clipartmax.com/png/full/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin" width="20" height="20"/> [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="Sqlite" width="20" height="20"/>](https://github.com/NikolaosProgios/ToDoList)
 
-- [PasswordGenerator]https://github.com/NikolaosProgios/PasswordGenerator) implemented with <img src="https://www.clipartmax.com/png/full/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin" width="20" height="20"/>
+- [PasswordGenerator](https://github.com/NikolaosProgios/PasswordGenerator) implemented with <img src="https://www.clipartmax.com/png/full/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin" width="20" height="20"/>
